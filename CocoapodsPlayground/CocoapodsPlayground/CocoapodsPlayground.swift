@@ -7,7 +7,7 @@
 
 import Foundation
 
-class CocoapodsPlayground {
+public final class CocoapodsPlayground {
   public static func greetings(name: String) -> String {
     return "Hello \(name)"
   }
